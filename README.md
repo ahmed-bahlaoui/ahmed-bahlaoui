@@ -1,9 +1,14 @@
-# 👋 Wa fen, mr7ba bek f github profile dyali!
+
+<div align="center">
+  <h1>"I code therefore I am"</h1>
+  <h1> Welcome to my github profile. Make yourself at home 🫡🫡</h1>
+</div>
+
 
 ## 🚀 About me:
 Hi, I’m **Ahmed** – a 19-year-old Moroccan **pre-engineering student** currently pursuing my degree at **ENSAM Rabat**. As part of my **preparatory classes cycle**, I’m exploring the exciting world of engineering and will soon specialize in a field that aligns with my passion for **technology and programming**.
 
-I’m a **part-time programmer**, a **technology enthusiast**, and an **AI admirer** who loves building cool projects for fun, learning, and experience. My ultimate goal? To become a **software engineer** and make meaningful contributions to the tech world!
+I’m a **part-time self-taught programmer**, a **technology enthusiast**, and an **A soon to be frontend Web Developer** who loves building cool projects for fun, learning, and experience. My ultimate goal? To become a **software engineer** and make meaningful contributions to the tech world!
 
 ---
 
