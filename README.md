@@ -15,7 +15,7 @@ I’m a **part-time self-taught programmer**, a **technology enthusiast**, and a
 ## 🛠️ My Tech Stack:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
@@ -29,13 +29,6 @@ I’m a **part-time self-taught programmer**, a **technology enthusiast**, and a
 - 🔭 I’m currently working on improving my **problem-solving skills** and diving deeper into **AI and machine learning**.
 - 🌍 I love exploring how technology can solve real-world issues.
 - 🎮 I play games like **Brawlhalla** and **Rocket League**.
-
----
-
-## 🎵 What I’m Listening To:
-Here’s what’s playing on my headphones right now:
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31nfnjvsvemjrkmbq6vqjrfhv4zm)
 
 ---
 
