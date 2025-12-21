@@ -15,7 +15,7 @@ I’m a **part-time self-taught programmer**, a **technology enthusiast**, and I
 ## Tools I use almost everyday:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,git,python,java,c,cpp,figma,docker,vscode,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,git,python,notion,c,cpp,figma,docker,vscode,bash&perline=8" />
 </p>
 
 
