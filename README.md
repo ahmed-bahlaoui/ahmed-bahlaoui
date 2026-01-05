@@ -17,21 +17,18 @@ I’m a **part-time self-taught programmer**, a **technology enthusiast**, and I
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,git,python,notion,c,cpp,figma,docker,vscode,bash&perline=8" />
 </p>
 
+## My Setup:
 
 
-
+ **Platform** : Windows 11 **AND** Pop!_OS \
+ **Editors** : VS Code **AND** Zed \
+ **Theme** : Catppuccin Mocha **OR** Pitch Black \
+ **Fonts** : Fira Code Nerd Font **OR** CaskaydiaCove Nerd Font Mono \
 
 ## Fun Facts About Me:
 - I’m currently working on improving my **problem-solving skills** and diving deeper into **AI and machine learning**.
 - I love exploring how technology can solve real-world issues.
 - I play games like **Brawlhalla** and **Rocket League**.
-
-## 👾 My stats:
-  <div align="left">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">    
-    <img  alt="ahmed-bahlaoui's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ahmed-bahlaoui?cardType=level&theme=dark&preferLogin=false" />  
-    </a>
-  </div>
 
 ## Feel free to reach out to me or collaborate on something cool!
 <div align="center"
