@@ -23,7 +23,7 @@ I’m a **part-time self-taught programmer**, a **technology enthusiast**, and I
  **Platform** : Windows 11 **AND** Pop!_OS \
  **Editors** : VS Code **AND** Zed \
  **Theme** : Catppuccin Mocha **OR** Pitch Black \
- **Fonts** : Fira Code Nerd Font **OR** CaskaydiaCove Nerd Font Mono \
+ **Fonts** : Fira Code Nerd Font **OR** CaskaydiaCove Nerd Font Mono 
 
 ## Fun Facts About Me:
 - I’m currently working on improving my **problem-solving skills** and diving deeper into **AI and machine learning**.
