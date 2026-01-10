@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I do cool projects</h1>
+  <h1>Indie dev doing silly projects</h1>
 </div>
 
 
@@ -8,7 +8,7 @@
 # About me:
 Hi, I’m **Ahmed** – a 20-year-old Moroccan **Engineering student** currently pursuing my degree at **ENSAM Rabat**. As part of my 1st year of my **engineering cycle**, I’m exploring the exciting world of software and data engineering  that aligns with my passion for **technology and programming**.
 
-I’m a **part-time self-taught programmer**, a **technology enthusiast**, and I love building cool projects for fun, learning, and experience. My ultimate goal? To become a **software engineer** and make meaningful contributions to the tech world!
+I’m a **part-time self-taught programmer**, a **technology enthusiast**, and I love building cool projects for fun, learning, and experience. 
 
 
 ## Tools I use almost everyday:
