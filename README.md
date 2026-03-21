@@ -1,26 +1,56 @@
 <div align="center">
-  <h1>Indie dev doing silly projects</h1>
+  <h1>Ahmed Bahlaoui</h1>
+  <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast</b></p>
+  <a href="https://ahmed-bahlaoui.github.io/">Check out my website!</a>
 </div>
 
-
-
- 
 # About me:
-Hi, I’m **Ahmed** – a 20-year-old Moroccan **Engineering student** currently pursuing my degree at **ENSAM Rabat**. As part of my 1st year of my **engineering cycle**, I’m exploring the exciting world of software and data engineering  that aligns with my passion for **technology and programming**.
+I am an AI & Data Science engineering student at ENSAM Rabat with a strong focus on **machine learning, data analysis, and building production-ready systems**.
 
-I’m a **part-time self-taught programmer**, a **technology enthusiast**, and I love building cool projects for fun, learning, and experience. 
+I specialize in developing **end-to-end data science pipelines**, from data preprocessing and feature engineering to model training, evaluation, and deployment.
 
+Recently, I built and deployed a **machine learning model to predict used car prices**, achieving an **R² score of 0.91 using XGBoost** on a real-world dataset of over 100,000 records.
 
 ## Tools I use almost everyday:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,git,python,notion,c,cpp,figma,docker,vscode,bash&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,git,python,pycharm,c,cpp,figma,docker,vscode,bash&perline=8" />
 </p>
 
 
-## Fun Facts About Me:
-- I’m currently working on improving my **problem-solving skills** and diving deeper into **AI and machine learning**.
-- I play games like **Brawlhalla** and **Rocket League**.
+##  Featured Project
+### Moroccan Used Car Price Prediction
+
+**Tech Stack:** Python, Pandas, scikit-learn, XGBoost, Streamlit  
+
+- Built an end-to-end machine learning pipeline on a 100k+ record dataset  
+- Performed extensive data cleaning (25k+ missing values handled)  
+- Engineered features from multilingual (Arabic/French) data  
+- Trained and compared regression models (Linear Regression, XGBoost)  
+- Achieved **R² = 0.91** using XGBoost  
+- Evaluated models using RMSE, MAE, and cross-validation  
+- Deployed an interactive web application using **Streamlit Cloud**  
+
+ *Repository:* [Github repo](https://github.com/ahmed-bahlaoui/used_cars_dataset) 
+ 
+ *Live Demo:* [Hosted on streamlit](https://morocco-usedcarsdataset-price-prediction.streamlit.app/)
+
+## Technical Skills:
+- Programming: Python, C++, SQL, Javascript, Java
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost
+- Tools & Systems: Git, Docker, Linux, FastAPI
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+## Core Competencies
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Regression & Classification Models
+- Cross-Validation Techniques
+- Data Visualization
+- Model Deployment (Streamlit)
+
 
 ## Feel free to reach out to me or collaborate on something cool!
 <div align="center"
