@@ -1,8 +1,12 @@
 <div align="center">
   <h1>Ahmed Bahlaoui</h1>
   <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast</b></p>
-  <a href="https://ahmed-bahlaoui.github.io/">Check out my website!</a>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-bahlaoui&theme=react&show_icons=true&hide_border=true&count_private=true">
+</p>
+
 
 # About me:
 I am an AI & Data Science engineering student at ENSAM Rabat with a strong focus on **machine learning, data analysis, and building production-ready systems**.
@@ -53,6 +57,9 @@ Recently, I built and deployed a **machine learning model to predict used car pr
 
 
 ## Feel free to reach out to me or collaborate on something cool!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-bahlaoui&theme=react&hide_border=true">
+</p>
 <div align="center"
   <a href="mailto:ahmedbahlaoui@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
