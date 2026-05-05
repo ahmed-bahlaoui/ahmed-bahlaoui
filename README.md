@@ -1,11 +1,11 @@
+<p align="center">
+ <img src="https://i.ibb.co/B5p2HTsC/Ahmed.png" alt="Ahmed in LandSat">
+</p>
+
 <div align="center">
   <h1>Ahmed Bahlaoui</h1>
-  <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast</b></p>
+  <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast | Backend Dev</b></p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-bahlaoui&theme=react&show_icons=true&hide_border=true&count_private=true">
-</p>
 
 
 # About me:
