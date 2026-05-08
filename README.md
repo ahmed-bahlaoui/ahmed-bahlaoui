@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Ahmed Bahlaoui</h1>
-  <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast | Backend Dev</b></p>
+  <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast | Backend Dev | IoT nerd</b></p>
 </div>
 
 
@@ -17,12 +17,12 @@ Recently, I built and deployed a **machine learning model to predict used car pr
 
 ## Tools I use almost everyday:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,react,git,python,pycharm,c,cpp,figma,docker,vscode,bash&perline=8" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,postgres,ts,nodejs,bun,react,git,python,mongodb,c,cpp,figma,docker,vscode,bash,linux,postman&perline=6" />
 </p>
 
 
-##  Featured Project
+##  Machine Learning
 ### Moroccan Used Car Price Prediction
 
 **Tech Stack:** Python, Pandas, scikit-learn, XGBoost, Streamlit  
@@ -36,15 +36,29 @@ Recently, I built and deployed a **machine learning model to predict used car pr
 - Deployed an interactive web application using **Streamlit Cloud**  
 
  *Repository:* [Github repo](https://github.com/ahmed-bahlaoui/used_cars_dataset) 
- 
- *Live Demo:* [Hosted on streamlit](https://morocco-usedcarsdataset-price-prediction.streamlit.app/)
+
+##  IoT Projects
+*More projects coming soon...*
+
+##  Backend Engineering
+### GhostDrop — Anonymous Temporary File Sharing
+
+**Tech Stack:** TypeScript, Fastify, Svelte, PostgreSQL, Redis, MinIO, Docker, Caddy  
+
+- Built an end-to-end encrypted file-sharing platform with ephemeral transfer sessions  
+- Designed a streaming-first pipeline: uploads/downloads stream directly to/from MinIO object storage  
+- Implemented Redis-backed rate limiting, session code lookups, and TTL-based cleanup  
+- Unified gateway with Caddy serving frontend assets, reverse-proxying API, HTTP/3 + QUIC support  
+- TypeScript monorepo with Zod validation and auto-migrating Docker staging environment  
+
+ *Repository:* [Github repo](https://github.com/ahmed-bahlaoui/Ghostdrop)
 
 ## Technical Skills:
-- Programming: Python, C++, SQL, Javascript, Java
+- Programming: Python, C++, SQL, Javascript, Typescript, Java
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - Machine Learning: scikit-learn, TensorFlow, PyTorch, XGBoost
 - Tools & Systems: Git, Docker, Linux, FastAPI
-- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Databases: PostgreSQL, MySQL, PL/SQL, MongoDB, Redis
 
 ## Core Competencies
 - Data Cleaning & Preprocessing
