@@ -5,7 +5,11 @@
 <div align="center">
   <h1>Ahmed Bahlaoui</h1>
   <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast | Backend Dev | IoT nerd</b></p>
+  <div>
+     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="ReadME Quotes">
+  </div>
 </div>
+
 
 
 # About me:
@@ -15,7 +19,7 @@ I specialize in developing **end-to-end data science pipelines**, from data prep
 
 Recently, I built and deployed a **machine learning model to predict used car prices**, achieving an **R² score of 0.91 using XGBoost** on a real-world dataset of over 100,000 records.
 
-## Tools I use almost everyday:
+## Tools I use almost every day:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,postgres,ts,nodejs,bun,react,git,python,mongodb,c,cpp,figma,docker,vscode,bash,linux,postman&perline=6" />
