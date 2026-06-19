@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Ahmed Bahlaoui</h1>
+  <h1>BAHLAOUI Ahmed</h1>
   <p><b>AI & Data Science Engineering Student | Machine Learning Enthusiast | Backend Dev | IoT nerd</b></p>
   <div>
      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="ReadME Quotes">
@@ -18,6 +18,9 @@ I am an AI & Data Science engineering student at ENSAM Rabat with a strong focus
 I specialize in developing **end-to-end data science pipelines**, from data preprocessing and feature engineering to model training, evaluation, and deployment.
 
 Recently, I built and deployed a **machine learning model to predict used car prices**, achieving an **R² score of 0.91 using XGBoost** on a real-world dataset of over 100,000 records.
+
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/8e74e52a-f49a-4d40-88dc-27d00ac8d97b" />
+
 
 ## Tools I use almost every day:
 
