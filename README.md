@@ -19,7 +19,8 @@ I specialize in developing **end-to-end data science pipelines**, from data prep
 
 Recently, I built and deployed a **machine learning model to predict used car prices**, achieving an **R² score of 0.91 using XGBoost** on a real-world dataset of over 100,000 records.
 
-<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/8e74e52a-f49a-4d40-88dc-27d00ac8d97b" />
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/3d25ac15-0f69-495d-8e5f-909a768e9d93" />
+
 
 
 ## Tools I use almost every day:
